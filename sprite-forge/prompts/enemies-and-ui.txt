@@ -1,0 +1,29 @@
+Use $generate2dsprite to create original game-ready enemy sheets and UI icon sheets for a dark anime sci-fi slot roguelike.
+
+Enemy shared direction:
+- abstract zero-rift monsters, no existing franchise references
+- black crystal, magenta energy fissures, geometric halos
+- readable silhouette, limited internal detail, dark-background contrast
+- 4x2 sheet, 8 frames, in-place idle/attack pulse
+- #FF00FF chroma background, equal cells, 8% safe margin
+
+Enemy set:
+1. Rift Hound — quadruped black crystal predator with red fissures
+2. Mirror Sentinel — armored floating construct with cyan mirror plates
+3. Light Moth Queen — violet geometric moth with a radiant eye core
+4. Faceless Assassin — thin humanoid anomaly with orange blade-arms
+5. Inverted Bishop — levitating ceremonial monster with purple halo
+6. Fate Judge — final boss, large mechanical angel/judge, pink-white core, rotating judgment rings
+
+UI symbol sheet:
+- 3x3 grid, one centered icon per cell
+- transparent-ready magenta background
+- icons: blade, shield, flame, healing bloom, crystal coin, fate sigil, corruption mark, wild fate star, empty void
+- thick readable silhouette, jewel-like anime game UI rendering
+- no text
+
+FX sheets:
+- slash: 1x4 red-white arc
+- burn: 2x2 orange ember burst
+- shield: 2x2 cyan hex barrier
+- fate burst: 2x3 violet/cyan radial sigil
